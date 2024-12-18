@@ -11,7 +11,7 @@ Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, i
 
 # Commercially Available and Custom Made Parts 
 
-The following [component list](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/1-MACHETE-Components-Table.pdf)) details the manufacturer, part number, and quantity of each item required to build MACHETE within your own laboratory. 
+The following [component list](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/1-MACHETE-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required to build MACHETE within your own laboratory. 
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Part Number</th>

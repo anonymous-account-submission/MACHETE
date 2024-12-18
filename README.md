@@ -341,7 +341,7 @@ The following [component list](https://github.com/anonymous-account-submission/M
 </tbody></table>
 
 
-This [document](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/3-MACHETE-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. The following [spreadsheet](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/2-MACHETE-Bill-of-Materials-and-Assembly-Spreadsheet.xlsx) outlines the total cost of the motor assisted commutator.  
+This [document](https://github.com/anonymous-account-submission/MACHETE/blob/bac1c05d11be4005d82bf26546d7f61cbe5a9f60/3-MACHETE-Custom-Parts-Table.pdf) outlines the design of each of the custom pieces and the file types found within this repository that can be used to replicate the system. The following [spreadsheet](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/2-MACHETE-Bill-of-Materials-and-Assembly-Spreadsheet.xlsx) outlines the total cost of the motor assisted commutator.  
 
 **Here is a list of the manufacturers we purchased materials from:** 
 - Digikey

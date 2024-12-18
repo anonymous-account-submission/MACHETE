@@ -7,7 +7,7 @@ MACHETE is a motor assisted commutator that allows researchers to capture high-f
 # Custom Arduino Printed Circuit Board Shield:
 Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, integrated within a pair of custom printed circuit boards (PCBs) which allow users to interface with both data aquisition computers and existing commercial optogenetic and electrophysiological devices. 
 
-![](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/MACHETE_PCBs.png)
+![](https://github.com/anonymous-account-submission/MACHETE/blob/5db5eb291e712c56ca45608d338712ed41602e45/MACHETE_PCBs.png)
 
 # Commercially Available and Custom Made Parts 
 

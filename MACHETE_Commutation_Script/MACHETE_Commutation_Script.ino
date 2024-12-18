@@ -1,5 +1,4 @@
 // Motor Assisted Commutator for High-fidelity Electro-optical Tethered Experiments (MACHETE)
-// Developed by the Pegard and Rodriguez-Romaguera labs at UNC-Chapel Hill.
 
 // Developed to reduce twisting and torque on cables using a brushless motor and Hall effect angle sensor.
 

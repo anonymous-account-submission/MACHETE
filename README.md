@@ -11,8 +11,6 @@ Our motor assisted commutator is driven and controlled by an Arduino Nano 3.x, i
 
 # Commercially Available and Custom Made Parts 
 
-The following [component list](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/1-MACHETE-Components-Table.pdf) details the manufacturer, part number, and quantity of each item required to build MACHETE within your own laboratory. 
-
 <table class="table table-bordered table-hover table-condensed">
 <thead>
 <tr>
@@ -21,8 +19,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <th title="Field #3">Part Name</th>
 <th title="Field #4">Distributor Part Number</th>
 <th title="Field #5">Quantity Needed</th>
-<th title="Field #6">Unit Price</th>
-<th title="Field #7">Total Price</th>
 </tr>
 </thead>
 <tbody>
@@ -32,8 +28,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Micro USB 2.0 Connector</td>
 <td>609-4613-1-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">2</td>
@@ -41,8 +35,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Connector Receptacle</td>
 <td>WM3917CT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -50,8 +42,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Resistor 390 Ohm</td>
 <td>311-390CRCT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">4</td>
@@ -59,8 +49,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Toggle Switch</td>
 <td>CKN1783CT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">5</td>
@@ -68,8 +56,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Arduino Nano 3.x</td>
 <td>1050-1001-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">6</td>
@@ -77,8 +63,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Mini USB 2.0 Connector</td>
 <td>UE25BE5510H-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">7</td>
@@ -86,8 +70,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Right Angle Connector</td>
 <td>WM1743-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">8</td>
@@ -95,8 +77,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Resistor 100k Ohm 0805</td>
 <td>311-100KCRCT-ND</td>
 <td>6</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">9</td>
@@ -104,8 +84,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Hall Effect Sensor</td>
 <td>AS5600-ASOMCT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">10</td>
@@ -113,8 +91,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Capacitor 1 µF 0805</td>
 <td>1276-1066-1-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">11</td>
@@ -122,8 +98,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Capacitor 10 µF 0805</td>
 <td>445-7644-1-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">12</td>
@@ -131,8 +105,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Connector Receptacle</td>
 <td>WM4783CT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">13</td>
@@ -140,8 +112,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Resistor 10k Ohm 0805</td>
 <td>RMCF0805FT10K0CT-ND</td>
 <td>2</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">14</td>
@@ -149,8 +119,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Motor Driver 20-QFN (3x3)</td>
 <td>175-TMC6300-LA-TCT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">15</td>
@@ -158,8 +126,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Resistor 120 mOhms 0805</td>
 <td>RL12S.12FCT-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">16</td>
@@ -167,8 +133,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Capacitor 0.1 µF 0805</td>
 <td>478-KGM21NR71H104KTCT-ND</td>
 <td>3</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">17</td>
@@ -176,8 +140,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Brushless DC Motor</td>
 <td>1568-ROB-20441-ND</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">18</td>
@@ -185,8 +147,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Red LED</td>
 <td>696-SMLFT0805SRCTR</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">19</td>
@@ -194,8 +154,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M3 x 4mm threaded insert</td>
 <td>4255</td>
 <td>1 (Pack of 50)</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">20</td>
@@ -203,8 +161,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M2 x 4mm threaded insert</td>
 <td>94180A312</td>
 <td>1 (Pack of 100)</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">21</td>
@@ -212,8 +168,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Ball Bearing 6 mm shaft</td>
 <td>4668K122</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">22</td>
@@ -221,8 +175,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M3-0.5 x 6mm screw</td>
 <td>91290A111</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">23</td>
@@ -230,8 +182,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M3-0.5 x 10mm screw</td>
 <td>91290A115</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">24</td>
@@ -239,8 +189,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M2-0.4 x 8mm screw</td>
 <td>91290A015</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">25</td>
@@ -248,8 +196,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Rotary Electrical Slip Ring</td>
 <td>734831002031</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">26</td>
@@ -257,8 +203,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Magnet (5 mm x 1mm)</td>
 <td>D301</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">27</td>
@@ -266,8 +210,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>M1.6 x 4mm screw</td>
 <td>M1640HCS</td>
 <td>2</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">28</td>
@@ -275,8 +217,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Top Case</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">29</td>
@@ -284,8 +224,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>PCB attachment</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">30</td>
@@ -293,8 +231,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Static PCB</td>
 <td>PCB Manufacturing (JLC PCB)</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">31</td>
@@ -302,8 +238,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Dynamic PCB</td>
 <td>PCB Manufacturing (JLC PCB)</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">32</td>
@@ -311,8 +245,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Small Gear</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">33</td>
@@ -320,8 +252,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Shield</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">34</td>
@@ -329,8 +259,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Cable Holder</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td align="right">35</td>
@@ -338,8 +266,6 @@ The following [component list](https://github.com/anonymous-account-submission/M
 <td>Outer Gear</td>
 <td>3-D Printing</td>
 <td>1</td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

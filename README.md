@@ -352,10 +352,6 @@ This [document](https://github.com/anonymous-account-submission/MACHETE/blob/bac
 - K&J Magnetics, Inc
 - Maxx Model
 
-**Here is a list of companies you can purchase custom parts from, if not fabricated in-house:**
-- Craftcloud3d (3-D Printing)
-- JBL PCB (PCB Printing / Fabrication)
-
 # Step-by-Step Building Guide
 
 ![](https://github.com/anonymous-account-submission/MACHETE/blob/89ad60d1f6e04f39b38d436aee46013fde03fa46/MACHETE_Steps.png)
@@ -368,7 +364,7 @@ Following this installation guide will ensure that your MACHETE system will be a
 
 **Required Software and Applications**:
 - [Arduino IDE](https://www.arduino.cc/en/software)
-- [DeepLabCuts](https://github.com/DeepLabCut/DeepLabCut)
+- [BORIS](https://github.com/olivierfriard/BORIS)
   
 # Contact
 
